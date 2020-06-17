@@ -38,7 +38,7 @@ const buildStudentProfile = zoomer => {
 }
 
 const buildInstructorProfile = (ele, instructor) => {
-  ele.querySelector('h3').innerText = '#sei-sf09-strictlybiz';
+  ele.querySelector('h3').innerText = '#sei-sf10-strictlybiz';
   let profileDiv = document.createElement('div');
   profileDiv.classList.add('window-main');
   profileDiv.insertAdjacentHTML('afterbegin', `
