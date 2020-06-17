@@ -17,7 +17,7 @@ export const instructorData = [
     file: false
   }, {
     name: 'James Sinkler',
-    email:'',
+    email:'james.sinkler@generalassemb.ly',
     linkedIn:'',
     github:'',
     img:'',
