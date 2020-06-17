@@ -28,33 +28,28 @@ export const instructorData = [
 
 export const spiritData = [
   {
-    name: 'Matrix Monday',
-    img: 'sei9monochromaticmonday.gif',
+    name: 'Mono Monday',
+    img: 'mono.png',
     file: true
   },
   {
-    name: 'SportsBall',
-    img: 'sei9sportsday.gif',
+    name: 'Sports',
+    img: 'sports.png',
     file: true
   },
   {
-    name: 'Wacky Wednesday',
-    img: 'sei9hat.gif',
+    name: 'Hairdue & Hats',
+    img: 'hairdohat.png',
     file: true
   },
   {
     name: 'Throwback Thursday',
-    img: 'sei9throwbackthursday.gif',
+    img: 'throwback.png',
     file: true
   },
   {
-    name: 'Fancy Friday 1',
-    img: 'sei9fancyfriday.gif',
+    name: 'Fancy Friday',
+    img: 'fancy.png',
     file: true
-  },
-  {
-    name: 'Fancy Friday 2',
-    img: 'sei9fancyfridayy.gif',
-    file: true
-  },
+  }
 ]
