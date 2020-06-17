@@ -16,12 +16,12 @@ export const instructorData = [
     title:'SEI Lead Instructor - SF',
     file: false
   }, {
-    name: 'Michael Petty',
-    email:'michael.petty@gmail.com',
-    linkedIn:'https://www.linkedin.com/in/michaelpetty42/',
-    github:'https://github.com/michaelpetty/',
-    img:'michael.png',
-    title:'SEI Instructor - SF',
+    name: 'James Sinkler',
+    email:'',
+    linkedIn:'',
+    github:'',
+    img:'',
+    title:'',
     file: false
   }
 ]
