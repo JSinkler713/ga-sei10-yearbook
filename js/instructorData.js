@@ -1,7 +1,7 @@
 export const instructorData = [
   {
     name: 'Brock Whitbread-Cole',
-    email:'brock.whitbread@gmail.com',
+    email:'brock.whitbread@generalassemb.ly',
     linkedIn:'https://www.linkedin.com/in/brockwhitbread/',
     github:'https://github.com/brockwc/',
     img:'brock.png',
@@ -9,7 +9,7 @@ export const instructorData = [
     file: false
   }, {
     name: 'Kenny Bushman',
-    email:'',
+    email:'kenneth.bushman@generalassemb.ly',
     linkedIn:'',
     github:'',
     img:'kenny.png',
@@ -17,11 +17,19 @@ export const instructorData = [
     file: false
   }, {
     name: 'James Sinkler',
-    email:'',
+    email:'james.sinkler@generalassemb.ly',
     linkedIn:'',
     github:'',
     img:'',
-    title:'',
+    title:'SEI Classroom Instructor - SF',
+    file: false
+  }, {
+    name: 'Dalton Hart',
+    email:'dalton.hart@generalassemb.ly',
+    linkedIn:'',
+    github:'',
+    img:'',
+    title:'SEI Lead Instructor - SF',
     file: false
   }
 ]
